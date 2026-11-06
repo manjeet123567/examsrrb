@@ -1,8 +1,8 @@
 [
   {
     "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "sets": 15 Shift,
-    "total_questions": 100,
+    "sets": "15 Shift",
+    "total_questions": "100",
     "time_limit": "60 min",
     "description": {
       "title": "RRB ALP 2018 CBT-1 Official Paper",
@@ -12,8 +12,8 @@
   },
   {
     "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "sets": 20 Shift,
-    "total_questions": 100,
+    "sets": "20 Shift",
+    "total_questions": "100",
     "time_limit": "60 min",
     "description": {
       "title": "RRB NTPC 2021 Stage-1 Official",
@@ -23,8 +23,8 @@
   },
   {
     "recruitment": "RRB Group D",
-    "sets": 30 Shift,
-    "total_questions": 100,
+    "sets": "30 Shift",
+    "total_questions": "100",
     "time_limit": "60 min",
     "description": {
       "title": "RRB Group D 2022 PYQ",
@@ -34,8 +34,8 @@
   },
   {
     "recruitment": "RRB JE (Junior Engineer)",
-    "sets": 100 Shift,
-    "total_questions": 100,
+    "sets": "100 Shift",
+    "total_questions": '100",
     "time_limit": "60 min",
     "description": {
       "title": "RRB JE 2019 CBT-1 Previous Year Paper",
@@ -45,8 +45,8 @@
   },
   {
     "recruitment": "RRB Technician",
-    "sets": 19 Shift,
-    "total_questions": 100,
+    "sets": "19 Shift",
+    "total_questions": "100",
     "time_limit": "60 min",
     "description": {
       "title": "RRB Technician Grade III 2018 Official Paper",
