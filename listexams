@@ -1,6 +1,9 @@
 [
   {
     "recruitment": "RRB ALP (Assistant Loco Pilot)",
+    "sets": 15,
+    "total_questions": 100,
+    "time_limit": "60 min",
     "description": {
       "title": "RRB ALP 2018 CBT-1 Official Paper",
       "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
@@ -9,6 +12,9 @@
   },
   {
     "recruitment": "RRB NTPC (Graduate & Undergraduate)",
+    "sets": 15,
+    "total_questions": 100,
+    "time_limit": "60 min",
     "description": {
       "title": "RRB NTPC 2021 Stage-1 Official",
       "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
@@ -17,6 +23,9 @@
   },
   {
     "recruitment": "RRB Group D",
+    "sets": 15,
+    "total_questions": 100,
+    "time_limit": "60 min",
     "description": {
       "title": "RRB Group D 2022 PYQ",
       "details": "100 multiple-choice questions focusing on Science"
@@ -25,6 +34,9 @@
   },
   {
     "recruitment": "RRB JE (Junior Engineer)",
+    "sets": 15,
+    "total_questions": 100,
+    "time_limit": "60 min",
     "description": {
       "title": "RRB JE 2019 CBT-1 Previous Year Paper",
       "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
@@ -33,246 +45,9 @@
   },
   {
     "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
-    "description": {
-      "title": "RRB Technician Grade III 2018 Official Paper",
-      "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
-    },
-    "link": "https://example.com/tests/rrb-technician-grade3-2018"
-  },
- {
-    "recruitment": "RRB ALP (Assistant Loco Pilot)",
-    "description": {
-      "title": "RRB ALP 2018 CBT-1 Official Paper",
-      "details": "Includes 75 questions covering General Science, Mathematics, and Reasoning."
-    },
-    "link": "https://example.com/tests/rrb-alp-cbt1-2018-shift1"
-  },
-  {
-    "recruitment": "RRB NTPC (Graduate & Undergraduate)",
-    "description": {
-      "title": "RRB NTPC 2021 Stage-1 Official",
-      "details": "Full 100-mark paper with detailed solutions for General Awareness, Math, and General Intelligence."
-    },
-    "link": "https://example.com/tests/rrb-ntpc-stage1-2021"
-  },
-  {
-    "recruitment": "RRB Group D",
-    "description": {
-      "title": "RRB Group D 2022 PYQ",
-      "details": "100 multiple-choice questions focusing on Science"
-    },
-    "link": "https://example.com/tests/rrb-group-d-2022-phase1"
-  },
-  {
-    "recruitment": "RRB JE (Junior Engineer)",
-    "description": {
-      "title": "RRB JE 2019 CBT-1 Previous Year Paper",
-      "details": "Official 90-minute mock test covering Physics, Chemistry, Basic Computers, and Quantitative Aptitude."
-    },
-    "link": "https://example.com/tests/rrb-je-cbt1-2019"
-  },
-  {
-    "recruitment": "RRB Technician",
+    "sets": 15,
+    "total_questions": 100,
+    "time_limit": "60 min",
     "description": {
       "title": "RRB Technician Grade III 2018 Official Paper",
       "details": "Comprehensive mock paper including Basic Science and Engineering drawing fundamentals."
@@ -280,4 +55,3 @@
     "link": "https://example.com/tests/rrb-technician-grade3-2018"
   }
 ]
-
