@@ -1,0 +1,37 @@
+[
+  {
+    "title": "RRB ALP CBT-1 Mock Set 01",
+    "description": "Full syllabus test with 75 questions based on 2018 official exam pattern.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/alp_set_01.json"
+  },
+  {
+    "title": "RRB ALP CBT-1 Mock Set 02",
+    "description": "High yield practice set focusing on General Science and Basic Mathematics.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/alp_set_02.json"
+  },
+  {
+    "title": "RRB NTPC Stage-1 Mock Set 01",
+    "description": "100 questions covering General Awareness, Mathematics, and General Intelligence.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/ntpc_set_01.json"
+  },
+  {
+    "title": "RRB NTPC Stage-1 Mock Set 02",
+    "description": "Previous year based full length paper with complete detailed solutions.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/ntpc_set_02.json"
+  },
+  {
+    "title": "RRB Group D Full Mock Set 01",
+    "description": "Standard 90-minute practice paper covering Science, Math, and Current Affairs.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/groupd_set_01.json"
+  },
+  {
+    "title": "RRB JE CBT-1 Mock Set 01",
+    "description": "100 questions test covering Physics, Chemistry, Aptitude, and Logical Reasoning.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/je_set_01.json"
+  },
+  {
+    "title": "RRB Technician Grade III Mock Set 01",
+    "description": "Targeted test series covering Basic Science, Engineering calculations, and Tech concepts.",
+    "setfile_link": "https://raw.githubusercontent.com/manjeet123567/examsrrb/main/tech_set_01.json"
+  }
+]
