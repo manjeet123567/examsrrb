@@ -1,0 +1,2115 @@
+{
+  "exam_info": {
+    "exam_name": "RRB ALP CBT-1 Practice Mock Test 2026",
+    "date": "08/11/2026",
+    "shift": "Shift 1",
+    "time": "10:00 AM - 11:00 AM",
+    "subject": "Assistant Loco Pilot (Stage 1)",
+    "total_questions": 75,
+    "total_time_minutes": 60,
+    "marks_per_correct": 1.0,
+    "negative_marking": 0.33
+  },
+  "questions": [
+    {
+      "q_no": 1,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "दो संख्याओं का म.स. (HCF) 16 और उनका ल.स. (LCM) 192 है। यदि इनमें से एक संख्या 48 है, तो दूसरी संख्या ज्ञात कीजिए।",
+        "options": [
+          "1. 56",
+          "2. 64",
+          "3. 72",
+          "4. 60"
+        ],
+        "solution_text": "सूत्र: पहली संख्या × दूसरी संख्या = HCF × LCM\n48 × दूसरी संख्या = 16 × 192\nदूसरी संख्या = (16 × 192) / 48 = 192 / 3 = 64।"
+      },
+      "english": {
+        "question_text": "The HCF and LCM of two numbers are 16 and 192 respectively. If one of the numbers is 48, find the other number.",
+        "options": [
+          "1. 56",
+          "2. 64",
+          "3. 72",
+          "4. 60"
+        ],
+        "solution_text": "Formula: Number 1 × Number 2 = HCF × LCM\n48 × Number 2 = 16 × 192\nNumber 2 = (16 × 192) / 48 = 64."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 2,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "यदि किसी वस्तु को ₹720 में बेचने पर 20% का लाभ होता है, तो 15% की हानि उठाने के लिए उसे किस मूल्य (₹ में) पर बेचा जाना चाहिए?",
+        "options": [
+          "1. 480",
+          "2. 500",
+          "3. 510",
+          "4. 540"
+        ],
+        "solution_text": "क्रय मूल्य (CP) = 720 / (1 + 20/100) = 720 / 1.2 = ₹600।\n15% हानि पर विक्रय मूल्य = 600 × (1 - 0.15) = 600 × 0.85 = ₹510।"
+      },
+      "english": {
+        "question_text": "If an article is sold for ₹720 at a profit of 20%, at what price (in ₹) should it be sold to incur a loss of 15%?",
+        "options": [
+          "1. 480",
+          "2. 500",
+          "3. 510",
+          "4. 540"
+        ],
+        "solution_text": "Cost Price (CP) = 720 / 1.2 = ₹600.\nSelling Price at 15% loss = 600 × 0.85 = ₹510."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 3,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "A किसी कार्य को 12 दिनों में और B उसी कार्य को 18 दिनों में कर सकता है। वे एक साथ मिलकर कार्य करना शुरू करते हैं, लेकिन 4 दिनों के बाद A कार्य छोड़ देता है। शेष कार्य को B कितने दिनों में पूरा करेगा?",
+        "options": [
+          "1. 8 दिन",
+          "2. 6 दिन",
+          "3. 10 दिन",
+          "4. 7 दिन"
+        ],
+        "solution_text": "कुल कार्य = LCM(12, 18) = 36 इकाई।\nA की दक्षता = 36/12 = 3 इकाई/दिन, B की दक्षता = 36/18 = 2 इकाई/दिन।\n4 दिनों में A और B द्वारा किया गया कार्य = 4 × (3 + 2) = 20 इकाई।\nशेष कार्य = 36 - 20 = 16 इकाई।\nB द्वारा लिया गया समय = 16 / 2 = 8 दिन।"
+      },
+      "english": {
+        "question_text": "A can complete a work in 12 days and B can complete it in 18 days. They start working together, but A leaves after 4 days. In how many days will B complete the remaining work?",
+        "options": [
+          "1. 8 days",
+          "2. 6 days",
+          "3. 10 days",
+          "4. 7 days"
+        ],
+        "solution_text": "Total work = LCM(12, 18) = 36 units.\nEfficiency of A = 3 units/day, B = 2 units/day.\nWork done in 4 days = 4 × 5 = 20 units.\nRemaining work = 36 - 20 = 16 units.\nTime taken by B = 16 / 2 = 8 days."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 4,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "180 मीटर लंबी एक रेलगाड़ी 54 km/h की चाल से चल रही है। यह एक टेलीग्राफ खंभे को पार करने में कितना समय (सेकंड में) लेगी?",
+        "options": [
+          "1. 10",
+          "2. 15",
+          "3. 8",
+          "4. 12"
+        ],
+        "solution_text": "चाल = 54 × (5/18) = 15 m/s।\nखंभे को पार करने में लगा समय = रेलगाड़ी की लंबाई / चाल = 180 / 15 = 12 सेकंड।"
+      },
+      "english": {
+        "question_text": "A train 180 m long is moving at a speed of 54 km/h. How much time (in seconds) will it take to cross a telegraph post?",
+        "options": [
+          "1. 10",
+          "2. 15",
+          "3. 8",
+          "4. 12"
+        ],
+        "solution_text": "Speed = 54 × (5/18) = 15 m/s.\nTime taken = Distance / Speed = 180 / 15 = 12 seconds."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 5,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "₹8,000 की राशि पर 10% वार्षिक ब्याज की दर से 2 वर्ष का चक्रवृद्धि ब्याज (₹ में) कितना होगा, यदि ब्याज वार्षिक रूप से संयोजित होता है?",
+        "options": [
+          "1. 1,600",
+          "2. 1,680",
+          "3. 1,720",
+          "4. 1,640"
+        ],
+        "solution_text": "मिश्रधन A = P(1 + R/100)² = 8000 × (1.1)² = 8000 × 1.21 = ₹9,680।\nचक्रवृद्धि ब्याज (CI) = A - P = 9680 - 8000 = ₹1,680।"
+      },
+      "english": {
+        "question_text": "What will be the compound interest (in ₹) on a sum of ₹8,000 for 2 years at 10% per annum, compounded annually?",
+        "options": [
+          "1. 1,600",
+          "2. 1,680",
+          "3. 1,720",
+          "4. 1,640"
+        ],
+        "solution_text": "Amount A = P(1 + R/100)² = 8000 × (1.1)² = 8000 × 1.21 = ₹9,680.\nCI = 9680 - 8000 = ₹1,680."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 6,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "यदि a/b = 4/5 और b/c = 15/16 है, तो (c² - a²) / (c² + a²) का मान क्या होगा?",
+        "options": [
+          "1. 7/25",
+          "2. 9/25",
+          "3. 1/7",
+          "4. 3/5"
+        ],
+        "solution_text": "a/c = (a/b) × (b/c) = (4/5) × (15/16) = 3/4।\nमाना a = 3 और c = 4।\n(c² - a²) / (c² + a²) = (4² - 3²) / (4² + 3²) = (16 - 9) / (16 + 9) = 7/25।"
+      },
+      "english": {
+        "question_text": "If a/b = 4/5 and b/c = 15/16, what is the value of (c² - a²) / (c² + a²)?",
+        "options": [
+          "1. 7/25",
+          "2. 9/25",
+          "3. 1/7",
+          "4. 3/5"
+        ],
+        "solution_text": "a/c = (a/b) × (b/c) = (4/5) × (15/16) = 3/4.\nLet a = 3, c = 4.\n(c² - a²) / (c² + a²) = (16 - 9) / (16 + 9) = 7/25."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 7,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "एक ठोस लम्ब वृत्तीय शंकु की आधार त्रिज्या 7 cm और ऊँचाई 24 cm है। इसका कुल पृष्ठीय क्षेत्रफल (cm² में) ज्ञात कीजिए। (π = 22/7 लीजिए)",
+        "options": [
+          "1. 550",
+          "2. 650",
+          "3. 704",
+          "4. 748"
+        ],
+        "solution_text": "तिर्यक ऊँचाई l = √(r² + h²) = √(7² + 24²) = √(49 + 576) = √625 = 25 cm।\nकुल पृष्ठीय क्षेत्रफल = πr(l + r) = (22/7) × 7 × (25 + 7) = 22 × 32 = 704 cm²।"
+      },
+      "english": {
+        "question_text": "The radius of the base of a solid right circular cone is 7 cm and its height is 24 cm. Find its total surface area (in cm²). (Use π = 22/7)",
+        "options": [
+          "1. 550",
+          "2. 650",
+          "3. 704",
+          "4. 748"
+        ],
+        "solution_text": "Slant height l = √(7² + 24²) = 25 cm.\nTotal surface area = πr(l + r) = (22/7) × 7 × (25 + 7) = 22 × 32 = 704 cm²."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 8,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "एक नाव धारा के अनुकूल 32 km की दूरी 2 घंटे में और धारा के प्रतिकूल 18 km की दूरी 3 घंटे में तय करती है। शांत जल में नाव की चाल (km/h में) कितनी है?",
+        "options": [
+          "1. 9",
+          "2. 10",
+          "3. 12",
+          "4. 11"
+        ],
+        "solution_text": "धारा के अनुकूल चाल (u + v) = 32 / 2 = 16 km/h।\nधारा के प्रतिकूल चाल (u - v) = 18 / 3 = 6 km/h।\nशांत जल में नाव की चाल u = (16 + 6) / 2 = 22 / 2 = 11 km/h।"
+      },
+      "english": {
+        "question_text": "A boat covers 32 km downstream in 2 hours and 18 km upstream in 3 hours. What is the speed of the boat in still water (in km/h)?",
+        "options": [
+          "1. 9",
+          "2. 10",
+          "3. 12",
+          "4. 11"
+        ],
+        "solution_text": "Downstream speed = 32 / 2 = 16 km/h.\nUpstream speed = 18 / 3 = 6 km/h.\nSpeed in still water = (16 + 6) / 2 = 11 km/h."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 9,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "24 संख्याओं का औसत 35 पाया गया। बाद में यह देखा गया कि एक संख्या 48 को गलती से 24 पढ़ लिया गया था। सही औसत ज्ञात कीजिए।",
+        "options": [
+          "1. 35.5",
+          "2. 36.0",
+          "3. 36.5",
+          "4. 37.0"
+        ],
+        "solution_text": "अंकों में अंतर = 48 - 24 = +24।\nऔसत में परिवर्तन = 24 / 24 = +1।\nसही औसत = 35 + 1 = 36।"
+      },
+      "english": {
+        "question_text": "The average of 24 numbers was found to be 35. Later, it was detected that a number 48 was mistakenly read as 24. Find the correct average.",
+        "options": [
+          "1. 35.5",
+          "2. 36.0",
+          "3. 36.5",
+          "4. 37.0"
+        ],
+        "solution_text": "Difference in sum = 48 - 24 = +24.\nChange in average = +24 / 24 = +1.\nCorrect average = 35 + 1 = 36."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 10,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "यदि tan θ = 3/4 और θ न्यून कोण है, तो (1 - cos θ) / (1 + cos θ) का मान ज्ञात कीजिए।",
+        "options": [
+          "1. 1/4",
+          "2. 1/5",
+          "3. 1/9",
+          "4. 1/16"
+        ],
+        "solution_text": "tan θ = 3/4 => लंब = 3, आधार = 4, कर्ण = √(3² + 4²) = 5।\ncos θ = आधार/कर्ण = 4/5।\n(1 - cos θ) / (1 + cos θ) = (1 - 4/5) / (1 + 4/5) = (1/5) / (9/5) = 1/9।"
+      },
+      "english": {
+        "question_text": "If tan θ = 3/4 and θ is an acute angle, find the value of (1 - cos θ) / (1 + cos θ).",
+        "options": [
+          "1. 1/4",
+          "2. 1/5",
+          "3. 1/9",
+          "4. 1/16"
+        ],
+        "solution_text": "tan θ = 3/4 => Perpendicular = 3, Base = 4, Hypotenuse = 5.\ncos θ = 4/5.\n(1 - 4/5) / (1 + 4/5) = (1/5) / (9/5) = 1/9."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 11,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "यदि x + 1/x = 5 है, तो x³ + 1/x³ का मान क्या होगा?",
+        "options": [
+          "1. 110",
+          "2. 115",
+          "3. 125",
+          "4. 140"
+        ],
+        "solution_text": "सूत्र: x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x)\n= 5³ - 3(5) = 125 - 15 = 110।"
+      },
+      "english": {
+        "question_text": "If x + 1/x = 5, what is the value of x³ + 1/x³?",
+        "options": [
+          "1. 110",
+          "2. 115",
+          "3. 125",
+          "4. 140"
+        ],
+        "solution_text": "Formula: x³ + 1/x³ = (x + 1/x)³ - 3(x + 1/x) = 5³ - 3(5) = 125 - 15 = 110."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 12,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "पाइप A किसी टंकी को 20 मिनट में और पाइप B उसे 30 मिनट में भर सकता है। एक खाली करने वाला पाइप C इसे 15 मिनट में खाली कर सकता है। यदि तीनों पाइपों को एक साथ खोल दिया जाए, तो टंकी कितने समय में भरेगी?",
+        "options": [
+          "1. 40 मिनट",
+          "2. 50 मिनट",
+          "3. 45 मिनट",
+          "4. 60 मिनट"
+        ],
+        "solution_text": "कुल क्षमता = LCM(20, 30, 15) = 60 इकाई।\nदक्षता: A = +3, B = +2, C = -4 इकाई/मिनट।\nसंयुक्त दक्षता = 3 + 2 - 4 = 1 इकाई/मिनट।\nटंकी भरने में लगा समय = 60 / 1 = 60 मिनट।"
+      },
+      "english": {
+        "question_text": "Pipe A can fill a tank in 20 minutes and pipe B in 30 minutes. An emptying pipe C can empty it in 15 minutes. If all three pipes are opened together, in how much time will the tank be filled?",
+        "options": [
+          "1. 40 minutes",
+          "2. 50 minutes",
+          "3. 45 minutes",
+          "4. 60 minutes"
+        ],
+        "solution_text": "Total capacity = LCM(20, 30, 15) = 60 units.\nEfficiencies: A = +3, B = +2, C = -4 units/min.\nNet rate = 3 + 2 - 4 = 1 unit/min.\nTime = 60 / 1 = 60 minutes."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 13,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "एक समद्विबाहु समकोण त्रिभुज का कर्ण 10√2 cm है। इस त्रिभुज का क्षेत्रफल (cm² में) क्या होगा?",
+        "options": [
+          "1. 25",
+          "2. 50",
+          "3. 100",
+          "4. 50√2"
+        ],
+        "solution_text": "कर्ण = a√2 = 10√2 => समान भुजा a = 10 cm।\nत्रिभुज का क्षेत्रफल = (1/2) × आधार × ऊँचाई = (1/2) × 10 × 10 = 50 cm²।"
+      },
+      "english": {
+        "question_text": "The hypotenuse of an isosceles right-angled triangle is 10√2 cm. What is the area of this triangle (in cm²)?",
+        "options": [
+          "1. 25",
+          "2. 50",
+          "3. 100",
+          "4. 50√2"
+        ],
+        "solution_text": "Hypotenuse = a√2 = 10√2 => side a = 10 cm.\nArea = (1/2) × a × a = (1/2) × 10 × 10 = 50 cm²."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 14,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "वह सबसे छोटी संख्या ज्ञात कीजिए जिसे 12, 16, 18 और 21 से विभाजित करने पर प्रत्येक स्थिति में शेषफल 7 प्राप्त होता है।",
+        "options": [
+          "1. 1015",
+          "2. 1008",
+          "3. 1022",
+          "4. 1001"
+        ],
+        "solution_text": "LCM(12, 16, 18, 21) = 1008।\nअभिष्ट संख्या = LCM + शेषफल = 1008 + 7 = 1015।"
+      },
+      "english": {
+        "question_text": "Find the smallest number which when divided by 12, 16, 18, and 21 leaves a remainder of 7 in each case.",
+        "options": [
+          "1. 1015",
+          "2. 1008",
+          "3. 1022",
+          "4. 1001"
+        ],
+        "solution_text": "LCM(12, 16, 18, 21) = 1008.\nRequired number = 1008 + 7 = 1015."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 15,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "एक परीक्षा में उत्तीर्ण होने के लिए 36% अंक आवश्यक हैं। एक छात्र 145 अंक प्राप्त करता है और 35 अंकों से अनुत्तीर्ण हो जाता है। परीक्षा के कुल पूर्णांक कितने हैं?",
+        "options": [
+          "1. 450",
+          "2. 600",
+          "3. 500",
+          "4. 550"
+        ],
+        "solution_text": "उत्तीर्ण होने के लिए आवश्यक अंक = 145 + 35 = 180।\nपूर्णांक का 36% = 180\nपूर्णांक = (180 / 36) × 100 = 5 × 100 = 500।"
+      },
+      "english": {
+        "question_text": "To pass an examination, 36% marks are required. A student scores 145 marks and fails by 35 marks. What is the maximum marks of the examination?",
+        "options": [
+          "1. 450",
+          "2. 600",
+          "3. 500",
+          "4. 550"
+        ],
+        "solution_text": "Passing marks = 145 + 35 = 180.\n36% of Maximum marks = 180 => Maximum marks = (180 / 36) × 100 = 500."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 16,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "सरल कीजिए: [48 ÷ 12 + 4 × (18 - 6)] ÷ (13 - 7) = ?",
+        "options": [
+          "1. 7",
+          "2. 8",
+          "3. 9",
+          "4. 8.67"
+        ],
+        "solution_text": "अंश = 48 ÷ 12 + 4 × 12 = 4 + 48 = 52।\nहर = 13 - 7 = 6।\nमान = 52 / 6 = 26 / 3 ≈ 8.67।"
+      },
+      "english": {
+        "question_text": "Simplify: [48 ÷ 12 + 4 × (18 - 6)] ÷ (13 - 7) = ?",
+        "options": [
+          "1. 7",
+          "2. 8",
+          "3. 9",
+          "4. 8.67"
+        ],
+        "solution_text": "Numerator = 48 ÷ 12 + 4 × 12 = 4 + 48 = 52.\nDenominator = 13 - 7 = 6.\nValue = 52 / 6 = 26/3 ≈ 8.67."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 17,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "एक बैग में ₹1, 50 पैसे और 25 पैसे के सिक्के 3 : 4 : 5 के अनुपात में हैं। यदि बैग में कुल धनराशि ₹125 है, तो 50 पैसे के सिक्कों की संख्या क्या होगी?",
+        "options": [
+          "1. 80",
+          "2. 80",
+          "3. 75",
+          "4. 100"
+        ],
+        "solution_text": "माना सिक्कों की संख्या 3x, 4x, 5x है।\nकुल मूल्य = 3x(1) + 4x(0.50) + 5x(0.25) = 3x + 2x + 1.25x = 6.25x = ₹125।\nx = 125 / 6.25 = 20।\n50 पैसे के सिक्कों की संख्या = 4x = 4 × 20 = 80।"
+      },
+      "english": {
+        "question_text": "A bag contains coins of ₹1, 50 paise, and 25 paise in the ratio 3 : 4 : 5. If total amount in the bag is ₹125, find the number of 50 paise coins.",
+        "options": [
+          "1. 60",
+          "2. 80",
+          "3. 75",
+          "4. 100"
+        ],
+        "solution_text": "Total value = 3x(1) + 4x(0.5) + 5x(0.25) = 6.25x = 125 => x = 20.\nNumber of 50 paise coins = 4 × 20 = 80."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 18,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "10% और 20% की दो क्रमिक छूटों के समतुल्य एकल छूट प्रतिशत क्या होगा?",
+        "options": [
+          "1. 28%",
+          "2. 30%",
+          "3. 25%",
+          "4. 32%"
+        ],
+        "solution_text": "एकल छूट = d1 + d2 - (d1 × d2 / 100) = 10 + 20 - (10 × 20 / 100) = 30 - 2 = 28%।"
+      },
+      "english": {
+        "question_text": "What is the single discount equivalent to two successive discounts of 10% and 20%?",
+        "options": [
+          "1. 28%",
+          "2. 30%",
+          "3. 25%",
+          "4. 32%"
+        ],
+        "solution_text": "Equivalent discount = 10 + 20 - (10 × 20)/100 = 30 - 2 = 28%."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 19,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "यदि द्विघात समीकरण 2x² - kx + 8 = 0 के मूल वास्तविक और समान हैं, तो k का धनात्मक मान ज्ञात कीजिए।",
+        "options": [
+          "1. 6",
+          "2. 4",
+          "3. 8",
+          "4. 10"
+        ],
+        "solution_text": "समान मूलों के लिए विविक्तकर (Discriminant) D = b² - 4ac = 0।\n(-k)² - 4(2)(8) = 0 => k² - 64 = 0 => k² = 64 => k = 8 (धनात्मक मान)।"
+      },
+      "english": {
+        "question_text": "If the roots of the quadratic equation 2x² - kx + 8 = 0 are real and equal, find the positive value of k.",
+        "options": [
+          "1. 6",
+          "2. 4",
+          "3. 8",
+          "4. 10"
+        ],
+        "solution_text": "For equal roots, D = b² - 4ac = 0 => k² - 4(2)(8) = 0 => k² = 64 => k = 8."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 20,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "एक गोले का व्यास 14 cm है। इसका आयतन (cm³ में) क्या होगा? (π = 22/7 लीजिए)",
+        "options": [
+          "1. 1437.33",
+          "2. 1437.33",
+          "3. 1245.67",
+          "4. 1560.25"
+        ],
+        "solution_text": "त्रिज्या r = 14 / 2 = 7 cm।\nआयतन V = (4/3)πr³ = (4/3) × (22/7) × 7 × 7 × 7 = (4 × 22 × 49) / 3 = 4312 / 3 ≈ 1437.33 cm³।"
+      },
+      "english": {
+        "question_text": "The diameter of a sphere is 14 cm. What is its volume (in cm³)? (Use π = 22/7)",
+        "options": [
+          "1. 1324.50",
+          "2. 1437.33",
+          "3. 1245.67",
+          "4. 1560.25"
+        ],
+        "solution_text": "Radius r = 7 cm.\nVolume = (4/3)πr³ = (4/3) × (22/7) × 343 = 4312 / 3 ≈ 1437.33 cm³."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 21,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "दी गई संख्या श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर क्या आएगा?\n12, 14, 18, 26, 42, ?",
+        "options": [
+          "1. 68",
+          "2. 70",
+          "3. 74",
+          "4. 76"
+        ],
+        "solution_text": "अंतर का पैटर्न:\n14 - 12 = 2 (2¹)\n18 - 14 = 4 (2²)\n26 - 18 = 8 (2³)\n42 - 26 = 16 (2⁴)\nअगला अंतर = 32 (2⁵)\nअतः पद = 42 + 32 = 74।"
+      },
+      "english": {
+        "question_text": "What will come in place of the question mark (?) in the following number series?\n12, 14, 18, 26, 42, ?",
+        "options": [
+          "1. 68",
+          "2. 70",
+          "3. 74",
+          "4. 76"
+        ],
+        "solution_text": "Differences follow powers of 2: +2, +4, +8, +16, +32.\nNext term = 42 + 32 = 74."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 22,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "जिस प्रकार 'विद्युत धारा' का संबंध 'एम्पीयर' से है, उसी प्रकार 'विद्युत प्रतिरोध' का संबंध किससे है?",
+        "options": [
+          "1. ओम",
+          "2. वोल्ट",
+          "3. वाट",
+          "4. जूल"
+        ],
+        "solution_text": "विद्युत धारा का SI मात्रक एम्पीयर है। इसी प्रकार, विद्युत प्रतिरोध का SI मात्रक ओम (Ω) है।"
+      },
+      "english": {
+        "question_text": "As 'Electric Current' is related to 'Ampere', in the same way 'Electrical Resistance' is related to:",
+        "options": [
+          "1. Ohm",
+          "2. Volt",
+          "3. Watt",
+          "4. Joule"
+        ],
+        "solution_text": "The SI unit of electric current is Ampere. Similarly, the SI unit of electrical resistance is Ohm."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 23,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "चार अक्षर-समूह दिए गए हैं, जिनमें से तीन किसी न किसी तरह समान हैं और एक भिन्न है। असंगत का चयन कीजिए:\nBEH, ILN, QTW, ZCF",
+        "options": [
+          "1. BEH",
+          "2. QTW",
+          "3. ZCF",
+          "4. ILN"
+        ],
+        "solution_text": "BEH: B(+3) -> E(+3) -> H\nQTW: Q(+3) -> T(+3) -> W\nZCF: Z(+3) -> C(+3) -> F\nILN: I(9) + 3 = L(12), L(12) + 2 = N(14) (यहाँ +2 है, +3 नहीं)। अतः ILN असंगत है।"
+      },
+      "english": {
+        "question_text": "Four letter-clusters are given, of which three are alike in a certain way. Select the odd one out:\nBEH, ILN, QTW, ZCF",
+        "options": [
+          "1. BEH",
+          "2. QTW",
+          "3. ZCF",
+          "4. ILN"
+        ],
+        "solution_text": "All others have intervals of +3, +3 between consecutive letters. In ILN, the gap is +3, +2, making it the odd one out."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 24,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "एक निश्चित कूट भाषा में, 'TRAIN' को 'WUDLQ' लिखा जाता है। उसी भाषा में 'PLANE' को कैसे लिखा जाएगा?",
+        "options": [
+          "1. SODQH",
+          "2. SODQH",
+          "3. SMCPH",
+          "4. TPERG"
+        ],
+        "solution_text": "पैटर्न: प्रत्येक अक्षर में +3 जोड़ा गया है।\nT(+3)=W, R(+3)=U, A(+3)=D, I(+3)=L, N(+3)=Q\nPLANE के लिए:\nP(+3) = S\nL(+3) = O\nA(+3) = D\nN(+3) = Q\nE(+3) = H\nअतः SODQH।"
+      },
+      "english": {
+        "question_text": "In a certain code language, 'TRAIN' is written as 'WUDLQ'. How will 'PLANE' be written in that language?",
+        "options": [
+          "1. RNDPG",
+          "2. SODQH",
+          "3. SMCPH",
+          "4. TPERG"
+        ],
+        "solution_text": "Shift pattern is +3 for each letter:\nP+3=S, L+3=O, A+3=D, N+3=Q, E+3=H -> SODQH."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 25,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "एक व्यक्ति उत्तर की ओर 15 m चलता है, फिर दाएं मुड़कर 20 m चलता है। इसके बाद वह दाएं मुड़कर 15 m चलता है। अंत में वह बाएं मुड़कर 10 m चलता है। अब वह अपने प्रारंभिक बिंदु से कितनी दूरी और किस दिशा में है?",
+        "options": [
+          "1. 30 m, पूर्व",
+          "2. 25 m, पूर्व",
+          "3. 30 m, उत्तर",
+          "4. 20 m, दक्षिण"
+        ],
+        "solution_text": "उत्तर (+15) और दक्षिण (-15) निरस्त हो गए।\nपूर्व विस्थापन = 20 m + 10 m = 30 m पूर्व।\nअतः वह प्रारंभिक बिंदु से 30 m पूर्व की ओर है।"
+      },
+      "english": {
+        "question_text": "A man walks 15 m North, turns right and walks 20 m, turns right and walks 15 m, and finally turns left and walks 10 m. How far and in which direction is he from his starting point?",
+        "options": [
+          "1. 30 m, East",
+          "2. 25 m, East",
+          "3. 30 m, North",
+          "4. 20 m, South"
+        ],
+        "solution_text": "Vertical motion: +15 m - 15 m = 0 m.\nHorizontal motion: 20 m East + 10 m East = 30 m East."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 26,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़ें:\nकथन:\nसभी धातुएँ चालक हैं।\nसभी तांबे धातुएँ हैं।\nनिष्कर्ष:\n(I) सभी तांबे चालक हैं।\n(II) कुछ चालक तांबे हैं।",
+        "options": [
+          "1. केवल निष्कर्ष I अनुसरण करता है",
+          "2. केवल निष्कर्ष II अनुसरण करता है",
+          "3. दोनों निष्कर्ष I और II अनुसरण करते हैं",
+          "4. न तो I और न ही II अनुसरण करता है"
+        ],
+        "solution_text": "कथनों के अनुसार: तांबा ⊂ धातु ⊂ चालक।\nअतः सभी तांबे चालक हैं (निष्कर्ष I सत्य है)। कुछ चालक तांबे हैं (निष्कर्ष II भी सत्य है)।"
+      },
+      "english": {
+        "question_text": "Read the statements and conclusions carefully:\nStatements:\nAll metals are conductors.\nAll copper are metals.\nConclusions:\n(I) All copper are conductors.\n(II) Some conductors are copper.",
+        "options": [
+          "1. Only conclusion I follows",
+          "2. Only conclusion II follows",
+          "3. Both conclusions I and II follow",
+          "4. Neither follows"
+        ],
+        "solution_text": "Venn relation: Copper ⊂ Metals ⊂ Conductors. Hence both (I) All copper are conductors and (II) Some conductors are copper logically follow."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 27,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "एक तस्वीर की ओर इशारा करते हुए रोहन ने कहा, \"वह मेरे दादाजी के इकलौते पुत्र की पत्नी की पुत्री है।\" तस्वीर वाली महिला का रोहन से क्या संबंध है?",
+        "options": [
+          "1. माता",
+          "2. चाची",
+          "3. पुत्री",
+          "4. बहन"
+        ],
+        "solution_text": "रोहन के दादाजी का इकलौता पुत्र = रोहन के पिता।\nपिता की पत्नी = रोहन की माता।\nमाता की पुत्री = रोहन की बहन।"
+      },
+      "english": {
+        "question_text": "Pointing to a photograph, Rohan said, \"She is the daughter of the wife of the only son of my grandfather.\" How is the woman in the photograph related to Rohan?",
+        "options": [
+          "1. Mother",
+          "2. Aunt",
+          "3. Daughter",
+          "4. Sister"
+        ],
+        "solution_text": "Only son of grandfather = Rohan's father.\nWife of father = Rohan's mother.\nDaughter of mother = Rohan's sister."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 28,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "यदि 15 अगस्त 2023 को मंगलवार था, तो 15 अगस्त 2024 को सप्ताह का कौन-सा दिन था?",
+        "options": [
+          "1. बुधवार",
+          "2. गुरुवार",
+          "3. शुक्रवार",
+          "4. शनिवार"
+        ],
+        "solution_text": "वर्ष 2024 एक लीप वर्ष है और इसमें फरवरी 2024 (29 दिन) शामिल है।\nअतः विषम दिनों की संख्या = 2 दिन।\nमंगलवार + 2 दिन = गुरुवार।"
+      },
+      "english": {
+        "question_text": "If 15th August 2023 was a Tuesday, which day of the week was 15th August 2024?",
+        "options": [
+          "1. Wednesday",
+          "2. Thursday",
+          "3. Friday",
+          "4. Saturday"
+        ],
+        "solution_text": "The year 2024 is a leap year and includes February 29th between these dates, adding 2 odd days.\nTuesday + 2 days = Thursday."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 29,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "एक पासे की दो स्थितियाँ दर्शाई गई हैं। यदि फलक 3 सबसे नीचे है, तो शीर्ष फलक पर कौन-सी संख्या होगी? (स्थिति 1: 1, 2, 3; स्थिति 2: 1, 4, 5)",
+        "options": [
+          "1. 4 या 5 में से कोई",
+          "2. 6",
+          "3. 2",
+          "4. 1"
+        ],
+        "solution_text": "दोनों स्थितियों में फलक '1' उभयनिष्ठ है। दक्षिणावर्त घुमाने पर: 1 -> 2 -> 3 और 1 -> 4 -> 5।\nअतः 2 के विपरीत 4 है और 3 के विपरीत 5 है। यदि 3 नीचे है, तो शीर्ष पर 5 होगा (यहाँ विकल्प 1 '5' को दर्शाता है)।"
+      },
+      "english": {
+        "question_text": "Two positions of a dice are shown. Position 1 shows faces (1, 2, 3) and Position 2 shows (1, 4, 5). Which number will be opposite to 3?",
+        "options": [
+          "1. 5",
+          "2. 6",
+          "3. 2",
+          "4. 4"
+        ],
+        "solution_text": "Keeping common face 1 and moving clockwise: (1-2-3) and (1-4-5). Face 2 is opposite to 4, and face 3 is opposite to 5."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 30,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "यदि '+' का अर्थ '÷', '-' का अर्थ '×', '×' का अर्थ '+' और '÷' का अर्थ '-' है, तो समीकरण का मान क्या होगा?\n36 + 6 - 3 × 5 ÷ 8 = ?",
+        "options": [
+          "1. 12",
+          "2. 18",
+          "3. 15",
+          "4. 20"
+        ],
+        "solution_text": "चिह्नों को बदलने पर:\n= 36 ÷ 6 × 3 + 5 - 8\n= 6 × 3 + 5 - 8\n= 18 + 5 - 8 = 15।"
+      },
+      "english": {
+        "question_text": "If '+' means '÷', '-' means '×', '×' means '+', and '÷' means '-', find the value of:\n36 + 6 - 3 × 5 ÷ 8 = ?",
+        "options": [
+          "1. 12",
+          "2. 18",
+          "3. 15",
+          "4. 20"
+        ],
+        "solution_text": "Substituting symbols: 36 ÷ 6 × 3 + 5 - 8 = 18 + 5 - 8 = 15."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 31,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "छह मित्र P, Q, R, S, T और U एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। S, T के बाएं दूसरे स्थान पर है। P, S के ठीक दाएं है। Q, U के दाएं दूसरे स्थान पर है। T के ठीक दाएं कौन बैठा है?",
+        "options": [
+          "1. P",
+          "2. R",
+          "3. Q",
+          "4. U"
+        ],
+        "solution_text": "वृत्ताकार क्रम में 6 स्थानों को व्यवस्थित करने पर T के ठीक दाएं R आता है।"
+      },
+      "english": {
+        "question_text": "Six friends P, Q, R, S, T, and U sit in a circle facing the centre. S is second to the left of T. P is immediate right of S. Q is second to the right of U. Who sits to the immediate right of T?",
+        "options": [
+          "1. P",
+          "2. R",
+          "3. Q",
+          "4. U"
+        ],
+        "solution_text": "Arranging all 6 persons clockwise as per conditions places R immediately to the right of T."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 32,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "दी गई श्रृंखला में छूटी हुई संख्या ज्ञात कीजिए:\n5, 11, 24, 51, 106, ?",
+        "options": [
+          "1. 212",
+          "2. 215",
+          "3. 216",
+          "4. 217"
+        ],
+        "solution_text": "पैटर्न: ×2 + 1, ×2 + 2, ×2 + 3, ×2 + 4, ×2 + 5\n5 × 2 + 1 = 11\n11 × 2 + 2 = 24\n24 × 2 + 3 = 51\n51 × 2 + 4 = 106\n106 × 2 + 5 = 212 + 5 = 217।"
+      },
+      "english": {
+        "question_text": "Find the missing number in the given series:\n5, 11, 24, 51, 106, ?",
+        "options": [
+          "1. 212",
+          "2. 215",
+          "3. 216",
+          "4. 217"
+        ],
+        "solution_text": "Pattern: ×2 + 1, ×2 + 2, ×2 + 3, ×2 + 4, ×2 + 5.\n106 × 2 + 5 = 217."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 33,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "शब्द 'COURAGE' के अक्षरों से अंग्रेजी वर्णमाला के क्रमानुसार व्यवस्थित करने पर कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+        "options": [
+          "1. एक भी नहीं",
+          "2. एक",
+          "3. दो",
+          "4. तीन"
+        ],
+        "solution_text": "मूल शब्द: C O U R A G E\nवर्णमाला क्रम: A C E G O R U\nतुलना करने पर कोई भी अक्षर अपने मूल स्थान पर नहीं रहता। अतः 'एक भी नहीं' (0)।"
+      },
+      "english": {
+        "question_text": "How many letters in the word 'COURAGE' will remain in the same position when arranged in alphabetical order?",
+        "options": [
+          "1. None",
+          "2. One",
+          "3. Two",
+          "4. Three"
+        ],
+        "solution_text": "Original: C-O-U-R-A-G-E\nAlphabetical: A-C-E-G-O-R-U\nNo letter retains its original position. Hence, None."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 34,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "40 छात्रों की एक कक्षा में, सुमित का स्थान ऊपर से 14वां है। नीचे से उसका स्थान क्या होगा?",
+        "options": [
+          "1. 26वां",
+          "2. 28वां",
+          "3. 27वां",
+          "4. 25वां"
+        ],
+        "solution_text": "नीचे से स्थान = कुल छात्र - ऊपर से स्थान + 1 = 40 - 14 + 1 = 26 + 1 = 27वां।"
+      },
+      "english": {
+        "question_text": "In a class of 40 students, Sumit ranks 14th from the top. What is his rank from the bottom?",
+        "options": [
+          "1. 26th",
+          "2. 28th",
+          "3. 27th",
+          "4. 25th"
+        ],
+        "solution_text": "Rank from bottom = Total students - Rank from top + 1 = 40 - 14 + 1 = 27th."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 35,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "उस वेन आरेख का चयन करें जो निम्नलिखित वर्गों के बीच संबंध को सर्वोत्तम रूप से दर्शाता है:\nस्तनधारी, व्हेल, चमगादड़",
+        "options": [
+          "1. तीन अलग-अलग वृत्त",
+          "2. एक बड़े वृत्त के अंदर दो अलग-अलग वृत्त",
+          "3. परस्पर प्रतिच्छेदित तीन वृत्त",
+          "4. एक वृत्त के अंदर दूसरा और उसके अंदर तीसरा"
+        ],
+        "solution_text": "व्हेल और चमगादड़ दोनों ही स्तनधारी (Mammals) वर्ग में आते हैं, लेकिन दोनों अलग-अलग प्राणी हैं। अतः एक बड़े वृत्त में दो अलग-अलग वृत्त होंगे।"
+      },
+      "english": {
+        "question_text": "Which Venn diagram best represents the relationship among:\nMammals, Whales, Bats",
+        "options": [
+          "1. Three disjoint circles",
+          "2. Two separate circles inside a larger circle",
+          "3. Three mutually intersecting circles",
+          "4. Concentric circles"
+        ],
+        "solution_text": "Both Whales and Bats are mammals, but they belong to different categories. So two separate circles inside one larger circle."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 36,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "घड़ी में 4 बजकर 40 मिनट पर दोनों सुइयों (घंटे और मिनट) के बीच कितने डिग्री का कोण बनेगा?",
+        "options": [
+          "1. 90°",
+          "2. 120°",
+          "3. 110°",
+          "4. 100°"
+        ],
+        "solution_text": "कोण θ = |30H - (11/2)M| = |30(4) - (11/2)(40)| = |120 - 220| = 100°।"
+      },
+      "english": {
+        "question_text": "What is the angle between the hour hand and minute hand of a clock at 4:40?",
+        "options": [
+          "1. 90°",
+          "2. 120°",
+          "3. 110°",
+          "4. 100°"
+        ],
+        "solution_text": "Angle = |30H - (11/2)M| = |30(4) - (11/2)(40)| = |120 - 220| = 100°."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 37,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "दिए गए चार विकल्पों में से उस विकल्प को चुनिए जो अन्य तीन से भिन्न है:\n27, 64, 125, 144",
+        "options": [
+          "1. 144",
+          "2. 64",
+          "3. 27",
+          "4. 125"
+        ],
+        "solution_text": "27 = 3³, 64 = 4³, 125 = 5³ पूर्ण घन संख्याएं हैं, जबकि 144 = 12² एक पूर्ण वर्ग संख्या है (घन नहीं)।"
+      },
+      "english": {
+        "question_text": "Select the number which is different from the other three:\n27, 64, 125, 144",
+        "options": [
+          "1. 144",
+          "2. 64",
+          "3. 27",
+          "4. 125"
+        ],
+        "solution_text": "27, 64, and 125 are perfect cubes (3³, 4³, 5³), whereas 144 is a square (12²) and not a cube."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 38,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "यदि 'A' = 1, 'CAT' = 24 है, तो 'POLICE' का मान क्या होगा?",
+        "options": [
+          "1. 58",
+          "2. 62",
+          "3. 60",
+          "4. 64"
+        ],
+        "solution_text": "अक्षरों के वर्णमाला मानों का योग:\nP(16) + O(15) + L(12) + I(9) + C(3) + E(5) = 16 + 15 + 12 + 9 + 3 + 5 = 60।"
+      },
+      "english": {
+        "question_text": "If 'A' = 1, 'CAT' = 24, what is the value of 'POLICE'?",
+        "options": [
+          "1. 58",
+          "2. 62",
+          "3. 60",
+          "4. 64"
+        ],
+        "solution_text": "Sum of alphabetical positional values: P(16) + O(15) + L(12) + I(9) + C(3) + E(5) = 60."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 39,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "कथन:\nक्या विद्यालय स्तर पर खेलकूद को अनिवार्य बनाया जाना चाहिए?\nतर्क:\nI. हाँ, इससे बच्चों का सर्वांगीण शारीरिक और मानसिक विकास होता है।\nII. नहीं, इससे उनका पढ़ाई का कीमती समय बर्बाद होगा।",
+        "options": [
+          "1. केवल तर्क II प्रबल है",
+          "2. केवल तर्क I प्रबल है",
+          "3. दोनों तर्क प्रबल हैं",
+          "4. न तो I और न ही II प्रबल है"
+        ],
+        "solution_text": "खेलकूद बच्चों के शारीरिक और मानसिक स्वास्थ्य के लिए अत्यंत आवश्यक है, अतः तर्क I ठोस और सकारात्मक है। तर्क II दुर्बल है।"
+      },
+      "english": {
+        "question_text": "Statement:\nShould sports be made compulsory at school level?\nArguments:\nI. Yes, it fosters overall physical and mental development of children.\nII. No, it wastes valuable study time of students.",
+        "options": [
+          "1. Only argument II is strong",
+          "2. Only argument I is strong",
+          "3. Both arguments are strong",
+          "4. Neither is strong"
+        ],
+        "solution_text": "Sports are proven to enhance physical health, discipline, and cognition. Argument I is strong while II is weak."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 40,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "यदि दर्पण को MN रेखा पर लंबवत रखा जाए, तो शब्द 'LOCO' का सही दर्पण प्रतिबिंब क्या होगा?",
+        "options": [
+          "1. OCOL",
+          "2. LOCO",
+          "3. OCOΓ",
+          "4. OƆO⅃"
+        ],
+        "solution_text": "दर्पण प्रतिबिंब में क्रम उलट जाता है तथा प्रत्येक अक्षर पार्श्व रूप से उल्टा (laterally inverted) हो जाता है: L -> ⅃, O -> O, C -> Ɔ, O -> O => OƆO⅃।"
+      },
+      "english": {
+        "question_text": "What is the correct mirror image of the word 'LOCO' when a vertical mirror is placed to its right?",
+        "options": [
+          "1. OCOL",
+          "2. LOCO",
+          "3. OCOΓ",
+          "4. OƆO⅃"
+        ],
+        "solution_text": "Letters reverse in order and laterally invert: L becomes ⅃, O remains O, C becomes Ɔ, O remains O => OƆO⅃."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 41,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "निम्न में से कौन-सा शब्द दिए गए शब्द 'ENVIRONMENT' के अक्षरों का केवल एक बार उपयोग करके नहीं बनाया जा सकता?",
+        "options": [
+          "1. MOVEMENT",
+          "2. MENTOR",
+          "3. ENTER",
+          "4. TENNIS"
+        ],
+        "solution_text": "शब्द 'MOVEMENT' में दो बार 'M' आया है, जबकि 'ENVIRONMENT' में केवल एक 'M' उपस्थित है।"
+      },
+      "english": {
+        "question_text": "Which of the following words CANNOT be formed using the letters of 'ENVIRONMENT' only as many times as they occur?",
+        "options": [
+          "1. MOVEMENT",
+          "2. MENTOR",
+          "3. ENTER",
+          "4. TENNIS"
+        ],
+        "solution_text": "'MOVEMENT' requires two 'M's, whereas 'ENVIRONMENT' has only one 'M'."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 42,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "पांच मित्र A, B, C, D और E की लंबाइयाँ भिन्न हैं। C केवल E से लंबा है। B, A से लंबा है लेकिन D से छोटा है। इनमें से सबसे लंबा कौन है?",
+        "options": [
+          "1. B",
+          "2. D",
+          "3. A",
+          "4. C"
+        ],
+        "solution_text": "C केवल E से लंबा है => क्रम में अंतिम दो C > E हैं।\nशेष तीन मित्र: D > B > A।\nपूर्ण अवरोही क्रम: D > B > A > C > E। अतः सबसे लंबा D है।"
+      },
+      "english": {
+        "question_text": "Among five friends A, B, C, D, and E of different heights: C is taller than only E. B is taller than A but shorter than D. Who is the tallest?",
+        "options": [
+          "1. B",
+          "2. D",
+          "3. A",
+          "4. C"
+        ],
+        "solution_text": "C > E at the bottom. Remaining friends satisfy D > B > A. Combined order: D > B > A > C > E. Tallest is D."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 43,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "दिए गए संख्या-युग्मों में समान संबंध के आधार पर प्रश्न चिह्न (?) को प्रतिस्थापित करें:\n8 : 512 :: 11 : ?",
+        "options": [
+          "1. 1221",
+          "2. 1441",
+          "3. 1331",
+          "4. 1321"
+        ],
+        "solution_text": "संबंध: पहली संख्या का घन = दूसरी संख्या।\n8³ = 512\n11³ = 1331।"
+      },
+      "english": {
+        "question_text": "Find the missing number based on the relationship:\n8 : 512 :: 11 : ?",
+        "options": [
+          "1. 1221",
+          "2. 1441",
+          "3. 1331",
+          "4. 1321"
+        ],
+        "solution_text": "Pattern: n : n³.\n8³ = 512, and 11³ = 1331."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 44,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "दी गई अक्षर श्रृंखला को पूरा कीजिए:\nAZ, BY, CX, DW, ?",
+        "options": [
+          "1. FU",
+          "2. GT",
+          "3. HS",
+          "4. EV"
+        ],
+        "solution_text": "पहला अक्षर +1 आगे बढ़ता है: A, B, C, D -> E।\nदूसरा अक्षर वर्णमाला का विपरीत अक्षर (Opposite pair) है: A-Z, B-Y, C-X, D-W, E-V।"
+      },
+      "english": {
+        "question_text": "Complete the letter series:\nAZ, BY, CX, DW, ?",
+        "options": [
+          "1. FU",
+          "2. GT",
+          "3. HS",
+          "4. EV"
+        ],
+        "solution_text": "First letters increase: A->B->C->D->E. Second letters are opposite reverse alphabet pairs. E pairs with V -> EV."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 45,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "दिए गए शब्दों को शब्दकोश (Dictionary) क्रम में व्यवस्थित करने पर तीसरे स्थान पर कौन-सा शब्द आएगा?\n1. MASTER, 2. MARKET, 3. MANGO, 4. MANNER",
+        "options": [
+          "1. MANNER",
+          "2. MANGO",
+          "3. MARKET",
+          "4. MASTER"
+        ],
+        "solution_text": "वर्णमाला के अनुसार क्रम:\n1) MANGO\n2) MANNER\n3) MARKET\n4) MASTER\nतीसरे स्थान पर 'MARKET' आएगा (विकल्प 1 में MANNER दूसरे पर है, 3 पर MARKET है)।"
+      },
+      "english": {
+        "question_text": "Which word will appear at the third position when arranged in dictionary order?\n1. MASTER, 2. MARKET, 3. MANGO, 4. MANNER",
+        "options": [
+          "1. MARKET",
+          "2. MANGO",
+          "3. MANNER",
+          "4. MASTER"
+        ],
+        "solution_text": "Alphabetical order: 1. MANGO, 2. MANNER, 3. MARKET, 4. MASTER. The 3rd word is MARKET."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 46,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "किसी गतिशील पिंड का संवेग (Momentum) 2 गुना कर देने पर उसकी गतिज ऊर्जा (Kinetic Energy) कितनी हो जाएगी?",
+        "options": [
+          "1. 2 गुनी",
+          "2. 4 गुनी",
+          "3. 8 गुनी",
+          "4. अपरिवर्तित रहेगी"
+        ],
+        "solution_text": "संबंध: KE = p² / (2m)। संवेग p को 2 गुना करने पर KE = (2p)² / (2m) = 4 × (p² / 2m) = 4 गुनी हो जाएगी।"
+      },
+      "english": {
+        "question_text": "If the momentum of a moving body is doubled, what will happen to its kinetic energy?",
+        "options": [
+          "1. Doubles",
+          "2. Quadruples (4 times)",
+          "3. Increases 8 times",
+          "4. Remains unchanged"
+        ],
+        "solution_text": "Kinetic energy KE = p² / (2m). Doubling momentum p results in (2p)² = 4p², increasing kinetic energy by a factor of 4."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 47,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "वाहनों के पश्च-दृश्य दर्पण (Rear-view mirror) के रूप में किस प्रकार के दर्पण का उपयोग किया जाता है?",
+        "options": [
+          "1. अवतल दर्पण",
+          "2. समतल दर्पण",
+          "3. उत्तल दर्पण",
+          "4. परवलयिक दर्पण"
+        ],
+        "solution_text": "उत्तल दर्पण (Convex mirror) सदैव सीधा तथा छोटा आभासी प्रतिबिंब बनाता है और इसका दृष्टि-क्षेत्र (field of view) बहुत विस्तृत होता है।"
+      },
+      "english": {
+        "question_text": "Which type of mirror is commonly used as a rear-view mirror in vehicles?",
+        "options": [
+          "1. Concave mirror",
+          "2. Plane mirror",
+          "3. Convex mirror",
+          "4. Parabolic mirror"
+        ],
+        "solution_text": "A convex mirror always gives an erect, diminished virtual image and provides a wider field of view."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 48,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "पृथ्वी की सतह से ऊपर जाने पर गुरुत्वीय त्वरण (g) के मान पर क्या प्रभाव पड़ता है?",
+        "options": [
+          "1. घटता है",
+          "2. बढ़ता है",
+          "3. स्थिर रहता है",
+          "4. पहले बढ़ता है फिर घटता है"
+        ],
+        "solution_text": "g' = g × [R / (R + h)]²। पृथ्वी की सतह से ऊँचाई (h) बढ़ने पर गुरुत्वीय त्वरण g का मान निरंतर घटता जाता है।"
+      },
+      "english": {
+        "question_text": "What happens to the acceleration due to gravity (g) as we go above the Earth's surface?",
+        "options": [
+          "1. It decreases",
+          "2. It increases",
+          "3. It remains constant",
+          "4. First increases then decreases"
+        ],
+        "solution_text": "Formula: g' = g(R / (R + h))². As altitude h increases, acceleration due to gravity g decreases."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 49,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "ध्वनि तरंगें निम्नलिखित में से किस माध्यम में गमन नहीं कर सकती हैं?",
+        "options": [
+          "1. इस्पात",
+          "2. जल",
+          "3. वायु",
+          "4. निर्वात"
+        ],
+        "solution_text": "ध्वनि तरंगें यांत्रिक अनुदैर्ध्य तरंगें (Mechanical longitudinal waves) हैं, जिनके संचरण के लिए द्रव्यात्मक माध्यम आवश्यक है; वे निर्वात (Vacuum) में गमन नहीं कर सकतीं।"
+      },
+      "english": {
+        "question_text": "In which of the following media can sound waves NOT travel?",
+        "options": [
+          "1. Steel",
+          "2. Water",
+          "3. Air",
+          "4. Vacuum"
+        ],
+        "solution_text": "Sound waves are mechanical waves requiring a material medium for propagation. They cannot travel through vacuum."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 50,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "किसी 60 W के विद्युत बल्ब को 220 V के स्रोत से जोड़ा गया है। बल्ब से प्रवाहित होने वाली विद्युत धारा का मान लगभग कितना होगा?",
+        "options": [
+          "1. 0.54 A",
+          "2. 0.27 A",
+          "3. 0.15 A",
+          "4. 3.66 A"
+        ],
+        "solution_text": "शक्ति P = V × I => धारा I = P / V = 60 / 220 ≈ 0.272 A।"
+      },
+      "english": {
+        "question_text": "An electric bulb of 60 W is connected to a 220 V supply. What is the approximate current flowing through the bulb?",
+        "options": [
+          "1. 0.54 A",
+          "2. 0.27 A",
+          "3. 0.15 A",
+          "4. 3.66 A"
+        ],
+        "solution_text": "Power P = V × I => I = P / V = 60 / 220 ≈ 0.27 A."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 51,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "लोहे पर जंग लगना (Rusting of iron) किस प्रकार का परिवर्तन है?",
+        "options": [
+          "1. रासायनिक परिवर्तन",
+          "2. भौतिक परिवर्तन",
+          "3. उत्क्रमणीय परिवर्तन",
+          "4. ऊष्माशोषी भौतिक परिवर्तन"
+        ],
+        "solution_text": "लोहे पर जंग लगना एक रासायनिक परिवर्तन (Chemical change) और उपचयन (Oxidation) प्रक्रिया है जिसमें जलयोजित आयरन ऑक्साइड (Fe₂O₃.xH₂O) बनता है।"
+      },
+      "english": {
+        "question_text": "Rusting of iron is which type of change?",
+        "options": [
+          "1. Chemical change",
+          "2. Physical change",
+          "3. Reversible change",
+          "4. Endothermic physical change"
+        ],
+        "solution_text": "Rusting of iron is an irreversible chemical oxidation reaction forming hydrated iron(III) oxide."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 52,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "उदासीन विलयन का pH मान 25°C पर कितना होता है?",
+        "options": [
+          "1. 0",
+          "2. 14",
+          "3. 7",
+          "4. 1"
+        ],
+        "solution_text": "25°C पर शुद्ध जल या किसी उदासीन विलयन के लिए pH का मान ठीक 7 होता है।"
+      },
+      "english": {
+        "question_text": "What is the pH value of a neutral solution at 25°C?",
+        "options": [
+          "1. 0",
+          "2. 14",
+          "3. 7",
+          "4. 1"
+        ],
+        "solution_text": "At 25°C, pure water and neutral solutions have a pH equal to 7."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 53,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "आधुनिक आवर्त सारणी में तत्वों को किस आधार पर व्यवस्थित किया गया है?",
+        "options": [
+          "1. परमाणु भार के बढ़ते क्रम में",
+          "2. परमाणु क्रमांक के बढ़ते क्रम में",
+          "3. द्रव्यमान संख्या के आधार पर",
+          "4. घनत्व के आधार पर"
+        ],
+        "solution_text": "मोज़ले (Moseley) द्वारा प्रतिपादित आधुनिक आवर्त नियम के अनुसार तत्वों के भौतिक और रासायनिक गुण उनके परमाणु क्रमांक (Atomic Number, Z) के आवर्ती फलन होते हैं।"
+      },
+      "english": {
+        "question_text": "In the Modern Periodic Table, elements are arranged on the basis of increasing:",
+        "options": [
+          "1. Atomic weight",
+          "2. Atomic number",
+          "3. Mass number",
+          "4. Density"
+        ],
+        "solution_text": "According to the Modern Periodic Law, physical and chemical properties of elements are periodic functions of their atomic numbers."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 54,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "निम्नलिखित में से कौन-सी धातु कमरे के ताप पर द्रव अवस्था में पाई जाती है?",
+        "options": [
+          "1. सोडियम",
+          "2. ब्रोमीन",
+          "3. सीसा",
+          "4. पारा (Mercury)"
+        ],
+        "solution_text": "पारा (Hg) एकमात्र ऐसी धातु है जो कमरे के ताप पर द्रव अवस्था में रहती है। ब्रोमीन कमरे के ताप पर द्रव अवस्था में पाई जाने वाली अधातु है।"
+      },
+      "english": {
+        "question_text": "Which of the following metals exists in liquid state at room temperature?",
+        "options": [
+          "1. Sodium",
+          "2. Bromine",
+          "3. Lead",
+          "4. Mercury"
+        ],
+        "solution_text": "Mercury (Hg) is the only metal that is liquid at standard room temperature. Bromine is a liquid non-metal."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 55,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "ब्लीचिंग पाउडर (विरंजक चूर्ण) का रासायनिक सूत्र क्या है?",
+        "options": [
+          "1. CaOCl₂",
+          "2. Ca(OH)₂",
+          "3. CaCl₂",
+          "4. CaCO₃"
+        ],
+        "solution_text": "विरंजक चूर्ण (Bleaching Powder) का रासायनिक नाम कैल्शियम ऑक्सीक्लोराइड है और इसका सूत्र CaOCl₂ होता है।"
+      },
+      "english": {
+        "question_text": "What is the chemical formula of bleaching powder?",
+        "options": [
+          "1. CaOCl₂",
+          "2. Ca(OH)₂",
+          "3. CaCl₂",
+          "4. CaCO₃"
+        ],
+        "solution_text": "Bleaching powder is chemically calcium oxychloride with formula CaOCl₂."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 56,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "कोशिका का 'शक्तिगृह' (Powerhouse of the cell) किसे कहा जाता है?",
+        "options": [
+          "1. राइबोसोम",
+          "2. लाइसोसोम",
+          "3. माइटोकॉन्ड्रिया",
+          "4. गॉल्जीकाय"
+        ],
+        "solution_text": "माइटोकॉन्ड्रिया में कोशिकीय श्वसन द्वारा ऊर्जा एटीपी (ATP) के रूप में उत्पन्न और संचित होती है, इसलिए इसे कोशिका का पावरहाउस कहते हैं।"
+      },
+      "english": {
+        "question_text": "Which organelle is called the 'Powerhouse of the cell'?",
+        "options": [
+          "1. Ribosome",
+          "2. Lysosome",
+          "3. Mitochondria",
+          "4. Golgi apparatus"
+        ],
+        "solution_text": "Mitochondria produce cellular energy in the form of ATP molecules, hence termed the powerhouse of the cell."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 57,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "पौधों में पत्तियों से जलवाष्प के निष्कासन की प्रक्रिया क्या कहलाती है?",
+        "options": [
+          "1. प्रकाश संश्लेषण",
+          "2. वाष्पोत्सर्जन (Transpiration)",
+          "3. श्वसन",
+          "4. परासरण"
+        ],
+        "solution_text": "पौधों के वायवीय भागों (मुख्यतः रंध्रों) से जल का वाष्प के रूप में निष्कासन वाष्पोत्सर्जन (Transpiration) कहलाता है।"
+      },
+      "english": {
+        "question_text": "The process of loss of water in the form of vapor from aerial parts of plants is known as:",
+        "options": [
+          "1. Photosynthesis",
+          "2. Transpiration",
+          "3. Respiration",
+          "4. Osmosis"
+        ],
+        "solution_text": "Transpiration is the evaporative loss of water from plant leaves and aerial parts through stomata."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 58,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "मानव शरीर की सबसे बड़ी ग्रंथि कौन-सी है?",
+        "options": [
+          "1. अग्न्याशय",
+          "2. थायरॉयड",
+          "3. पीयूष ग्रंथि",
+          "4. यकृत (Liver)"
+        ],
+        "solution_text": "यकृत (Liver) मानव शरीर की सबसे बड़ी ग्रंथि है, जिसका भार लगभग 1.5 kg होता है और यह पित्त रस (Bile juice) स्रावित करता है।"
+      },
+      "english": {
+        "question_text": "Which is the largest gland in the human body?",
+        "options": [
+          "1. Pancreas",
+          "2. Thyroid",
+          "3. Pituitary gland",
+          "4. Liver"
+        ],
+        "solution_text": "The liver is the largest gland and internal organ in the human body, weighing about 1.5 kg."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 59,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "रक्त का थक्का जमने (Blood clotting) के लिए कौन-सा विटामिन अनिवार्य रूप से आवश्यक है?",
+        "options": [
+          "1. विटामिन K",
+          "2. विटामिन A",
+          "3. विटामिन C",
+          "4. विटामिन D"
+        ],
+        "solution_text": "विटामिन K यकृत में प्रोथ्रोम्बिन और अन्य क्लॉटिंग कारकों के निर्माण के लिए आवश्यक है।"
+      },
+      "english": {
+        "question_text": "Which vitamin is essential for the normal clotting of blood?",
+        "options": [
+          "1. Vitamin K",
+          "2. Vitamin A",
+          "3. Vitamin C",
+          "4. Vitamin D"
+        ],
+        "solution_text": "Vitamin K is essential for hepatic synthesis of prothrombin and coagulation factors."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 60,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "दूर-दृष्टि दोष (Hypermetropia) के निवारण के लिए किस लेंस का उपयोग किया जाता है?",
+        "options": [
+          "1. अवतल लेंस",
+          "2. बेलनाकार लेंस",
+          "3. उत्तल लेंस",
+          "4. द्विफोकसी लेंस"
+        ],
+        "solution_text": "दूर-दृष्टि दोष में निकट की वस्तुएं स्पष्ट नहीं दिखतीं क्योंकि प्रतिबिंब रेटिना के पीछे बनता है। इसे अभिसारी उत्तल लेंस (Convex lens) द्वारा ठीक किया जाता है।"
+      },
+      "english": {
+        "question_text": "Which lens is used to correct Hypermetropia (far-sightedness)?",
+        "options": [
+          "1. Concave lens",
+          "2. Cylindrical lens",
+          "3. Convex lens",
+          "4. Bifocal lens"
+        ],
+        "solution_text": "Hypermetropia is corrected using a convex (converging) lens to bring the focus back onto the retina."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 61,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "कार्य (Work) की SI इकाई क्या है?",
+        "options": [
+          "1. वाट",
+          "2. जूल",
+          "3. न्यूटन",
+          "4. पास्कल"
+        ],
+        "solution_text": "कार्य = बल × विस्थापन। इसका SI मात्रक न्यूटन-मीटर अथवा जूल (Joule) होता है।"
+      },
+      "english": {
+        "question_text": "What is the SI unit of Work?",
+        "options": [
+          "1. Watt",
+          "2. Joule",
+          "3. Newton",
+          "4. Pascal"
+        ],
+        "solution_text": "Work = Force × Displacement. Its SI unit is Newton-metre, universally called the Joule (J)."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 62,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "निम्न में से कौन-सा नियम यह बताता है कि 'नियत ताप पर चालक तार में प्रवाहित धारा उसके सिरों के विभवान्तर के समानुपाती होती है'?",
+        "options": [
+          "1. फैराडे का नियम",
+          "2. जूल का नियम",
+          "3. न्यूटन का नियम",
+          "4. ओम का नियम"
+        ],
+        "solution_text": "ओम के नियमानुसार: V ∝ I (या V = IR), जहाँ ताप व अन्य भौतिक अवस्थाएं अपरिवर्तित रहें।"
+      },
+      "english": {
+        "question_text": "Which law states that 'at constant temperature, current flowing through a conductor is directly proportional to potential difference across its ends'?",
+        "options": [
+          "1. Faraday's law",
+          "2. Joule's law",
+          "3. Newton's law",
+          "4. Ohm's law"
+        ],
+        "solution_text": "Ohm's Law states V = IR under constant temperature and physical dimensions."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 63,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "जल का घनत्व किस तापमान पर अधिकतम होता है?",
+        "options": [
+          "1. 4°C",
+          "2. 0°C",
+          "3. 100°C",
+          "4. -4°C"
+        ],
+        "solution_text": "जल के असामान्य प्रसार (Anomalous expansion) के कारण 4°C पर इसका आयतन न्यूनतम तथा घनत्व अधिकतम (1000 kg/m³) होता है।"
+      },
+      "english": {
+        "question_text": "At what temperature is the density of water maximum?",
+        "options": [
+          "1. 4°C",
+          "2. 0°C",
+          "3. 100°C",
+          "4. -4°C"
+        ],
+        "solution_text": "Due to anomalous expansion, water reaches its minimum volume and maximum density at 4°C."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 64,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "अम्ल वर्षा (Acid Rain) मुख्यतः किन गैसों के वायुमंडलीय उत्सर्जन के कारण होती है?",
+        "options": [
+          "1. CO और CO₂",
+          "2. CH₄ और O₃",
+          "3. SO₂ और NO₂",
+          "4. CFC और N₂"
+        ],
+        "solution_text": "सल्फर डाइऑक्साइड (SO₂) और नाइट्रोजन के ऑक्साइड्स (NO₂) जलवाष्प के साथ मिलकर क्रमशः सल्फ्यूरिक अम्ल (H₂SO₄) और नाइट्रिक अम्ल (HNO₃) बनाते हैं।"
+      },
+      "english": {
+        "question_text": "Acid rain is primarily caused by atmospheric emissions of which gases?",
+        "options": [
+          "1. CO and CO₂",
+          "2. CH₄ and O₃",
+          "3. SO₂ and NO₂",
+          "4. CFCs and N₂"
+        ],
+        "solution_text": "Sulphur dioxide (SO₂) and Nitrogen dioxide (NO₂) react with atmospheric water vapour forming sulfuric and nitric acids."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 65,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "मानव रक्त में ऑक्सीजन का परिवहन करने वाला वर्णक (Pigment) कौन-सा है?",
+        "options": [
+          "1. क्लोरोफिल",
+          "2. हीमोग्लोबिन",
+          "3. मायोग्लोबिन",
+          "4. बिलीरुबिन"
+        ],
+        "solution_text": "लाल रक्त कणिकाओं (RBC) में उपस्थित लौह-युक्त प्रोटीन हीमोग्लोबिन फेफड़ों से ऊतकों तक ऑक्सीजन को ऑक्सीहीमोग्लोबिन के रूप में ले जाता है।"
+      },
+      "english": {
+        "question_text": "Which pigment is responsible for carrying oxygen in human blood?",
+        "options": [
+          "1. Chlorophyll",
+          "2. Haemoglobin",
+          "3. Myoglobin",
+          "4. Bilirubin"
+        ],
+        "solution_text": "Haemoglobin, an iron-containing respiratory pigment in red blood cells, transports oxygen from lungs to body tissues."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 66,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "भारतीय रेलवे के कितने जोनल मुख्यालय (Railway Zones) वर्तमान में कार्यरत हैं?",
+        "options": [
+          "1. 16",
+          "2. 17",
+          "3. 18",
+          "4. 19"
+        ],
+        "solution_text": "भारतीय रेल में कोलकाता मेट्रो और नवगठित दक्षिण तट रेलवे (SCoR) विशाखापत्तनम सहित कुल 18 रेलवे जोन हैं।"
+      },
+      "english": {
+        "question_text": "How many Railway Zones are currently operational in Indian Railways?",
+        "options": [
+          "1. 16",
+          "2. 17",
+          "3. 18",
+          "4. 19"
+        ],
+        "solution_text": "Indian Railways is organized into 18 operational railway zones including Kolkata Metro and South Coast Railway."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 67,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "भारत की पहली सेमी-हाई स्पीड ट्रेन 'वंदे भारत एक्सप्रेस' किन दो स्टेशनों के बीच पहली बार चलाई गई थी?",
+        "options": [
+          "1. नई दिल्ली से वाराणसी",
+          "2. नई दिल्ली से कटरा",
+          "3. मुंबई से गांधीनगर",
+          "4. नई दिल्ली से भोपाल"
+        ],
+        "solution_text": "भारत की पहली वंदे भारत एक्सप्रेस (ट्रेन 18) को फरवरी 2019 में नई दिल्ली और वाराणसी के बीच हरी झंडी दिखाई गई थी।"
+      },
+      "english": {
+        "question_text": "Between which two stations was India's first semi-high speed 'Vande Bharat Express' operated?",
+        "options": [
+          "1. New Delhi to Varanasi",
+          "2. New Delhi to Katra",
+          "3. Mumbai to Gandhinagar",
+          "4. New Delhi to Bhopal"
+        ],
+        "solution_text": "India's maiden Vande Bharat Express train was inaugurated in February 2019 running between New Delhi and Varanasi."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 68,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "भारतीय संविधान का कौन-सा अनुच्छेद अस्पृश्यता के उन्मूलन (Abolition of Untouchability) से संबंधित है?",
+        "options": [
+          "1. अनुच्छेद 14",
+          "2. अनुच्छेद 15",
+          "3. अनुच्छेद 16",
+          "4. अनुच्छेद 17"
+        ],
+        "solution_text": "भारतीय संविधान के मौलिक अधिकारों के अंतर्गत अनुच्छेद 17 अस्पृश्यता का उन्मूलन करता है तथा इसका किसी भी रूप में आचरण निषिद्ध करता है।"
+      },
+      "english": {
+        "question_text": "Which Article of the Indian Constitution deals with the 'Abolition of Untouchability'?",
+        "options": [
+          "1. Article 14",
+          "2. Article 15",
+          "3. Article 16",
+          "4. Article 17"
+        ],
+        "solution_text": "Article 17 of the Fundamental Rights in the Indian Constitution abolishes untouchability and forbids its practice."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 69,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "भारत का पहला स्वदेशी विमानवाहक पोत (Aircraft Carrier) कौन-सा है जिसे भारतीय नौसेना में शामिल किया गया?",
+        "options": [
+          "1. आईएनएस विक्रमादित्य",
+          "2. आईएनएस विक्रांत",
+          "3. आईएनएस अरिहंत",
+          "4. आईएनएस विराट"
+        ],
+        "solution_text": "आईएनएस विक्रांत (INS Vikrant / IAC-1) भारत में कोचीन शिपयार्ड द्वारा निर्मित पहला स्वदेशी विमानवाहक युद्धपोत है।"
+      },
+      "english": {
+        "question_text": "Which is India's first indigenously built Aircraft Carrier commissioned into the Indian Navy?",
+        "options": [
+          "1. INS Vikramaditya",
+          "2. INS Vikrant",
+          "3. INS Arihant",
+          "4. INS Viraat"
+        ],
+        "solution_text": "INS Vikrant is India's first indigenously designed and constructed aircraft carrier, built by Cochin Shipyard."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 70,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "विश्व पर्यावरण दिवस (World Environment Day) प्रत्येक वर्ष किस तिथि को मनाया जाता है?",
+        "options": [
+          "1. 5 जून",
+          "2. 22 अप्रैल",
+          "3. 16 सितंबर",
+          "4. 11 जुलाई"
+        ],
+        "solution_text": "पर्यावरण संरक्षण के प्रति वैश्विक जागरूकता फैलाने के लिए प्रतिवर्ष 5 जून को विश्व पर्यावरण दिवस मनाया जाता है।"
+      },
+      "english": {
+        "question_text": "On which date is World Environment Day observed every year?",
+        "options": [
+          "1. 5th June",
+          "2. 22nd April",
+          "3. 16th September",
+          "4. 11th July"
+        ],
+        "solution_text": "World Environment Day is celebrated globally every year on June 5th."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 71,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "भारत की सबसे लंबी सहायक नदी कौन-सी है?",
+        "options": [
+          "1. गोदावरी",
+          "2. कोसी",
+          "3. यमुना",
+          "4. गंडक"
+        ],
+        "solution_text": "यमुना नदी गंगा की सबसे बड़ी और भारत की सबसे लंबी सहायक नदी है, जिसकी कुल लंबाई लगभग 1376 km है।"
+      },
+      "english": {
+        "question_text": "Which is the longest tributary river in India?",
+        "options": [
+          "1. Godavari",
+          "2. Kosi",
+          "3. Yamuna",
+          "4. Gandak"
+        ],
+        "solution_text": "Yamuna is the longest tributary river in India, stretching 1,376 km before merging with the Ganga at Prayagraj."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 72,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 3,
+      "hindi": {
+        "question_text": "भारतीय अंतरिक्ष अनुसंधान संगठन (ISRO) का मुख्यालय कहाँ स्थित है?",
+        "options": [
+          "1. तिरुवनंतपुरम",
+          "2. श्रीहरिकोटा",
+          "3. नई दिल्ली",
+          "4. बेंगलुरु"
+        ],
+        "solution_text": "इसरो (ISRO) का प्रशासनिक मुख्यालय बेंगलुरु, कर्नाटक में स्थित है।"
+      },
+      "english": {
+        "question_text": "Where is the headquarters of the Indian Space Research Organisation (ISRO) located?",
+        "options": [
+          "1. Thiruvananthapuram",
+          "2. Sriharikota",
+          "3. New Delhi",
+          "4. Bengaluru"
+        ],
+        "solution_text": "The headquarters of ISRO is situated in Bengaluru, Karnataka."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 73,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 1,
+      "hindi": {
+        "question_text": "हड़प्पा सभ्यता का प्रसिद्ध बंदरगाह नगर 'लोथल' वर्तमान में किस भारतीय राज्य में स्थित है?",
+        "options": [
+          "1. राजस्थान",
+          "2. गुजरात",
+          "3. पंजाब",
+          "4. हरियाणा"
+        ],
+        "solution_text": "लोथल सिंधु घाटी सभ्यता का एक प्रमुख बंदरगाह शहर था, जो गुजरात के भाल क्षेत्र में भोगवा नदी के तट पर स्थित है।"
+      },
+      "english": {
+        "question_text": "In which present-day Indian state is 'Lothal', the famous port city of the Indus Valley Civilisation, located?",
+        "options": [
+          "1. Rajasthan",
+          "2. Gujarat",
+          "3. Punjab",
+          "4. Haryana"
+        ],
+        "solution_text": "Lothal, the prominent dockyard of the ancient Harappan civilization, is located in modern-day Gujarat."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 74,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 0,
+      "hindi": {
+        "question_text": "भारतीय रिजर्व बैंक (RBI) के वर्तमान गवर्नर का कार्यकाल कितने वर्षों के लिए सामान्यतः पहली बार नियत किया जाता है?",
+        "options": [
+          "1. 3 वर्ष",
+          "2. 5 वर्ष",
+          "3. 4 वर्ष",
+          "4. 6 वर्ष"
+        ],
+        "solution_text": "RBI अधिनियम के तहत आरबीआई गवर्नर की नियुक्ति सामान्यतः 3 वर्ष की प्रारंभिक अवधि के लिए की जाती है, जिसे केंद्र सरकार द्वारा बढ़ाया जा सकता है।"
+      },
+      "english": {
+        "question_text": "For what initial tenure is the Governor of the Reserve Bank of India (RBI) appointed by the Central Government?",
+        "options": [
+          "1. 3 years",
+          "2. 5 years",
+          "3. 4 years",
+          "4. 6 years"
+        ],
+        "solution_text": "The Governor of the Reserve Bank of India is typically appointed for an initial tenure of 3 years under the RBI Act."
+      },
+      "option_images": null
+    },
+    {
+      "q_no": 75,
+      "has_image_options": false,
+      "question_image_url": null,
+      "solution_image_url": null,
+      "correct_option_index": 2,
+      "hindi": {
+        "question_text": "भारतीय रेल के स्वचालित ट्रेन सुरक्षा तंत्र (Automatic Train Protection System) का क्या नाम है?",
+        "options": [
+          "1. सुरक्षा",
+          "2. रक्षक",
+          "3. कवच (KAVACH)",
+          "4. त्रिनेत्र"
+        ],
+        "solution_text": "भारतीय रेलवे द्वारा स्वदेशी रूप से विकसित स्वचालित ट्रेन टक्कर रोधी और गति नियंत्रण प्रणाली का नाम 'कवच' (KAVACH) है।"
+      },
+      "english": {
+        "question_text": "What is the name of Indian Railways' indigenously developed Automatic Train Protection (ATP) system?",
+        "options": [
+          "1. Suraksha",
+          "2. Rakshak",
+          "3. KAVACH",
+          "4. Trinetra"
+        ],
+        "solution_text": "KAVACH is the indigenously developed Automatic Train Protection (ATP) system by Research Designs and Standards Organisation (RDSO) to prevent collisions and train overspeeding."
+      },
+      "option_images": null
+    }
+  ]
+}
